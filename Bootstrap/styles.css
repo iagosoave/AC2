@@ -1,0 +1,18 @@
+body {
+    height: 100vh;
+    background-image: url('https://delikatessenbuffet.com.br/storage/app/uploads/7K4Rdu5urAYkKy5PN9r2rqxwZE6dXl2CFzZAjWkh.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-form {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+}
+

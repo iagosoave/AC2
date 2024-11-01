@@ -1,0 +1,13 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+  }
+  .card {
+    margin: 20px; /* Espaçamento entre os cartões */
+    height: 400px; /* Altura fixa para todos os cartões */
+  }
+  .card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* Para distribuir o conteúdo */
+    height: 100%; /* Garantir que o body ocupe toda a altura do cartão */
+  }

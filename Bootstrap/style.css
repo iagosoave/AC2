@@ -1,0 +1,36 @@
+/* style.css */
+
+/* Configurações básicas */
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f8f9fa; /* Cor de fundo suave */
+    margin: 0;
+    padding: 0;
+}
+
+/* Navbar */
+.navbar {
+    margin-bottom: 20px;
+}
+
+.navbar-logo {
+    border-radius: 5px; /* Arredondar a borda do logo */
+}
+
+.nav-link {
+    margin: 0 15px; /* Espaçamento entre os links */
+}
+
+
+/* Carousel */
+
+.carousel-item img {
+    width: 100%; /* Faz a imagem ocupar toda a largura do carrossel */
+    height: 600px; /* Define uma altura fixa */
+    object-fit: cover; /* Ajusta a imagem para cobrir o espaço do carrossel */
+  }
+  
+  .carousel {
+    margin-top: 0; /* Remove o espaçamento superior */
+  }
+  
